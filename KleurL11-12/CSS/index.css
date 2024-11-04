@@ -1,0 +1,52 @@
+header
+{
+    background-color: red;
+    color: white;
+    width: 50%;
+    height: 40px;
+}
+
+footer
+{
+    background-color: black;
+    width: 50%;
+    height: 40px;
+}
+
+img
+{
+    width: 70px;
+    height: 80px;
+}
+
+table, tr, td
+{
+    border: 1px solid;
+    border-color: black;
+    border-collapse: collapse;
+}
+table
+{
+    width: 50%;
+}
+td
+{
+    text-align: center;
+}
+
+#cel1{ background-color: lightgreen;}
+#cel2{ background-color: aliceblue;}
+#cel3{ background-color: rgb(255, 153, 153);}
+#cel4{ background-color: lightgray;}
+#cel5{ background-color: limegreen;}
+#cel6{ background-color: lightblue;}
+#cel7{ background-color: rgb(255, 102, 102);}
+#cel8{ background-color: darkgray;}
+#cel9{ background-color: forestgreen;}
+#cel10{ background-color: cornflowerblue;}
+#cel11{ background-color: rgb(255, 51, 51);}
+#cel12{ background-color: gray;}
+#cel13{ background-color: green;}
+#cel14{ background-color: blue;}
+#cel15{ background-color: rgb(255, 0, 0);}
+#cel16{ background-color: dimgray;}
